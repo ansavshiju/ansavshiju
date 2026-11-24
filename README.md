@@ -7,29 +7,31 @@
 <a href="https://www.linkedin.com/in/ansa-v-shiju/"><img src="assets/linkedin.svg" width="183" height="46" alt="LinkedIn" /></a>
 </p>
 
-## Featured project
+## Featured Project
 
 ### Online Retail II Sales Analysis
 
-An Excel dashboard that examines retail sales by month, weekday, product, customer, and country. I used Power Query to clean and prepare the transaction data, then built PivotTables, charts, and slicers to explore sales performance.
+*Excel · Power Query · PivotTables*
 
-The analysis showed that November had the highest revenue in both 2010 and 2011. Based on that pattern, I recommended planning inventory and staffing ahead of the holiday sales period.
+I built an Excel dashboard to explore retail sales by month, weekday, product, customer, and country. I cleaned the transaction data in Power Query and used PivotTables, charts, and slicers to analyze sales performance.
 
-[View the dashboard and full project](https://github.com/ansavshiju/Excel-Projects/tree/main/Online-Retail-II) · [Download the Excel preview](https://github.com/ansavshiju/Excel-Projects/raw/refs/heads/main/Online-Retail-II/Online_Retail_II_Preview.xlsx)
+**Key finding** · November had the highest revenue in both 2010 and 2011. I recommended planning inventory and staffing ahead of the holiday sales period.
 
-## More projects
+[**View dashboard and project details**](https://github.com/ansavshiju/Excel-Projects/tree/main/Online-Retail-II) · [Download the Excel preview](https://github.com/ansavshiju/Excel-Projects/raw/refs/heads/main/Online-Retail-II/Online_Retail_II_Preview.xlsx)
+
+## More Projects
 
 | Project | What you’ll find |
 | --- | --- |
-| [Excel Projects](https://github.com/ansavshiju/Excel-Projects) | Retail Sales and Sales Data workbooks for analysis and reporting |
-| [Python Notebooks](https://github.com/ansavshiju/Python) | Jupyter notebooks covering Python fundamentals, including strings, lists, dictionaries, and sets |
-| [Data Analytics Coursework](https://github.com/ansavshiju/Data-Analytics-overview) | Course notes and an employee dataset analysis with documented findings |
+| [**Excel Projects**](https://github.com/ansavshiju/Excel-Projects) | Retail Sales and Sales Data workbooks for analysis and reporting |
+| [**Python Notebooks**](https://github.com/ansavshiju/Python) | Jupyter notebooks covering Python fundamentals, including strings, lists, dictionaries, and sets |
+| [**Data Analytics Coursework**](https://github.com/ansavshiju/Data-Analytics-overview) | Course notes and an employee dataset analysis with documented findings |
 
-## About me
+## About Me
 
 I’m training in data analytics at Route Upskill Academy in Kozhikode. My BBA in Marketing helps me connect sales and customer data to business questions. I enjoy cleaning data, building dashboards, and explaining findings in plain language. I’m open to entry-level data analyst and reporting roles.
 
-## Tools & skills
+## Tools & Skills
 
 | Tool | Skills |
 | --- | --- |
