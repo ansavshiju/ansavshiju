@@ -9,22 +9,31 @@
 
 ## Featured project
 
-**Online Retail II Sales Analysis** · Excel, Power Query, PivotTables
+### Online Retail II Sales Analysis
 
-Analyzed retail transactions to identify sales trends, top products, and customer purchasing patterns. The dashboard brings together revenue, order volume, and customer metrics in a single view.
+An Excel dashboard that examines retail sales by month, weekday, product, customer, and country. I used Power Query to clean and prepare the transaction data, then built PivotTables, charts, and slicers to explore sales performance.
 
-[View dashboard and project details](https://github.com/ansavshiju/Excel-Projects/tree/main/Online-Retail-II)
+The analysis showed that November had the highest revenue in both 2010 and 2011. Based on that pattern, I recommended planning inventory and staffing ahead of the holiday sales period.
 
-## Other work
+[View the dashboard and full project](https://github.com/ansavshiju/Excel-Projects/tree/main/Online-Retail-II) · [Download the Excel preview](https://github.com/ansavshiju/Excel-Projects/raw/refs/heads/main/Online-Retail-II/Online_Retail_II_Preview.xlsx)
 
-| Project | Focus |
+## More projects
+
+| Project | What you’ll find |
 | --- | --- |
-| [Excel Projects](https://github.com/ansavshiju/Excel-Projects) | Retail sales analysis and reporting workbooks |
-| [Python Notebooks](https://github.com/ansavshiju/Python) | Python practice in Jupyter notebooks |
-| [Data Analytics Coursework](https://github.com/ansavshiju/Data-Analytics-overview) | Course notes and employee dataset analysis |
+| [Excel Projects](https://github.com/ansavshiju/Excel-Projects) | Retail Sales and Sales Data workbooks for analysis and reporting |
+| [Python Notebooks](https://github.com/ansavshiju/Python) | Jupyter notebooks covering Python fundamentals, including strings, lists, dictionaries, and sets |
+| [Data Analytics Coursework](https://github.com/ansavshiju/Data-Analytics-overview) | Course notes and an employee dataset analysis with documented findings |
 
 ## About me
 
-I’m training in data analytics at Route Upskill Academy in Kozhikode. With a BBA in Marketing, I’m interested in using sales and customer data to inform business decisions. I’m open to entry-level data analyst and reporting roles.
+I’m training in data analytics at Route Upskill Academy in Kozhikode. My BBA in Marketing helps me connect sales and customer data to business questions. I enjoy cleaning data, building dashboards, and explaining findings in plain language. I’m open to entry-level data analyst and reporting roles.
 
-**Skills** · Excel (Power Query, PivotTables, dashboards) · Power BI (DAX, data modeling) · SQL (joins, CTEs, window functions) · Python (pandas, NumPy)
+## Tools & skills
+
+| Tool | Skills |
+| --- | --- |
+| **Excel** | Power Query, PivotTables, Power Pivot, formulas, and dashboards |
+| **Power BI** | Data modeling, DAX measures, and interactive reports |
+| **SQL** | Joins, aggregations, CTEs, and window functions |
+| **Python** | pandas, NumPy, and exploratory data analysis |
